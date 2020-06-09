@@ -1,0 +1,14 @@
+# AugmentedWar
+Strategy Based Augmented Reality Game
+
+For the 1st Increment
+
+The project has;
+
+The game map prototype 
+Bluetooth Event Listener
+Joystick Controller
+Vuforia Configuration
+Import of assets
+
+Other than design and vuforia configuration, related scripts can be found in Scripts folder.
